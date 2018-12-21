@@ -1,6 +1,6 @@
 # PYTHON
 
-![Screenshot](picture1.jpg)
+![Screenshot](picture0.jpg)
 
 Python script files.
 
