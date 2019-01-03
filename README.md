@@ -9,3 +9,4 @@
 | [Steg Cracker](https://github.com/BroadbentT/STEG-MASTER) |A python utility tools to decrypt hidden data embedded within images.|
 
 - [X] Tested and working .
+
