@@ -1,6 +1,6 @@
 # PYTHON SCRIPTS
 
-| FILENAME | DESCRIPTION |
+| FILENAME       | DESCRIPTION |
 |----------------|-------------|
 | [.Pcap Cracker](https://github.com/BroadbentT/PCAP-CRACKER) | A python script file that cracks encrypted .pcap files captured via Wireshark.|
 | [.Pdf Cracker](https://github.com/BroadbentT/PDF-CRACKER) | A python script file that cracks encrypted .pdf files using a dictionary attack or a hash attack. |
