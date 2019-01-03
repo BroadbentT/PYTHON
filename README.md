@@ -1,4 +1,4 @@
-# PYTHON PROGRAMS
+# PYTHON SCRIPTS
 
 | FILENAME | DESCRIPTION |
 |----------------|-------------|
