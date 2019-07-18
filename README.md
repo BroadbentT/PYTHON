@@ -9,4 +9,4 @@
 | [.Jpg Cracker](https://github.com/BroadbentT/STEG-MASTER) |A python script file that cracks encrypted data embedded within images.|
 | [RSA Cracker       ](https://github.com/BroadbentT/RSA-CRACKER) |A python script file that cracks RSA encrypted messages via a weak .pub key, or .xml calculation.|
 | [RC4 Cracker](https://github.com/BroadbentT/RS4-CRACKER) | A python script file that cracks RC4 encrypted DNS exfiltration files captured via Wireshark.|
-|[Memor_Master](https://github.com/BroadbentT/Memory-Manager) | A python script file to forensically investigates memory dump files. |
+|[Memory_Master](https://github.com/BroadbentT/Memory-Manager) | A python script file to forensically investigates memory dump files. |
