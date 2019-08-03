@@ -1,7 +1,7 @@
 ![Screenshot](pythonlogo.png) 
 
 
-![Screenshot](pythonlogo.png) # ENCRYPTION AND DECRYPTION
+![Screenshot](logo.png) # ENCRYPTION AND DECRYPTION
 
 | FILENAME                       | DESCRIPTION |
 |--------------------------------|-------------|
