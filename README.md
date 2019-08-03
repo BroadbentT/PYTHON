@@ -5,7 +5,7 @@
 
 | FILENAME                       | DESCRIPTION |
 |--------------------------------|-------------|
-| [BASE64/AES Encoder](https://github.com/BroadbentT/PCAP-CRACKER) | A simple python script file to create and read BASE64/AES encoded text strings, using salt and key.   |
+| [BASE64/AES Encoder](https://github.com/BroadbentT/PCAP-CRACKER) | A simple python script file to create and read BASE64/AES encoded text strings, using a salt and key.   |
 
 
 # CRACKERS
@@ -16,8 +16,8 @@
 | [.Pdf Cracker](https://github.com/BroadbentT/PDF-CRACKER) | A python script file that cracks encrypted .pdf files using a dictionary attack or a hash attack. |
 | [.Doc Cracker](https://github.com/BroadbentT/OFFICE-CRACKER) |A python script file that cracks encrypted Microsoft office files using a dictionary attack or a hash attack.|
 | [.Zip Cracker](https://github.com/BroadbentT/ZIP-CRACKER) |A python script file that cracks encrypted .zip files using a dictionary attack or a brute force attack attack.|
-| [RSA Cracker       ](https://github.com/BroadbentT/RSA-CRACKER) |A python script file that cracks RSA encrypted messages via a weak .pub key, or .xml calculation.|
-| [RC4 Cracker](https://github.com/BroadbentT/RS4-CRACKER) | A python script file that cracks RC4 encrypted DNS exfiltration files captured via Wireshark.|
+| [.Rsa Cracker       ](https://github.com/BroadbentT/RSA-CRACKER) |A python script file that cracks RSA encrypted messages via a weak .pub key, or .xml calculation.|
+| [.Rc4 Cracker](https://github.com/BroadbentT/RS4-CRACKER) | A python script file that cracks RC4 encrypted DNS exfiltration files captured via Wireshark.|
 
 # FORENSICS
 
