@@ -23,6 +23,6 @@
 
 | FILENAME                       | DESCRIPTION |
 |--------------------------------|-------------|
-| [.Jpg Cracker](https://github.com/BroadbentT/STEG-MASTER) |A python script file that cracks encrypted data embedded within images.|
-|[Memory-Master](https://github.com/BroadbentT/Memory-Manager) | A python script file to forensically investigate memory dump files. |
+| [.Jpg Cracker](https://github.com/BroadbentT/STEG-MASTER) |A python script file to forensicallly analyse encrypted data embedded within images. |
+|[Memory-Master](https://github.com/BroadbentT/Memory-Manager) | A python script file to forensically investigate and analyse memory dump iamges for Windows and Linux. |
 
