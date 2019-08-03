@@ -23,6 +23,6 @@
 
 | FILENAME                       | DESCRIPTION |
 |--------------------------------|-------------|
-| [StegMaster](https://github.com/BroadbentT/STEG-MASTER) |A python script file to forensicallly investigate and analyse encrypted data embedded within images. |
-|[MemoryMaster](https://github.com/BroadbentT/Memory-Manager) | A python script file to forensically investigate and analyse memory dump files produced by Windows or Linux. |
+| [Steg_Master](https://github.com/BroadbentT/STEG-MASTER) |A python script file to forensicallly investigate and analyse encrypted data embedded within images. |
+|[Memory_Master](https://github.com/BroadbentT/Memory-Manager) | A python script file to forensically investigate and analyse memory dump files produced by Windows or Linux. |
 
