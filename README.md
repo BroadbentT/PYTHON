@@ -3,7 +3,7 @@
 | FILENAME                       | DESCRIPTION |
 |--------------------------------|-------------|
 | [BASE64/AES Encoder](https://github.com/BroadbentT/BASE64-AES) | A simple python script file to create and read BASE64/AES encoded text strings, using a salt and key.   |
-| [DNA Encoder](https://github.com/BroadbentT/DNA-CRYPTOGRAM) | A simple python script file to create and read|
+| [DNA Encoder](https://github.com/BroadbentT/DNA-CRYPTOGRAM) | A simple python script file to to encrypt and decrypt DNA based crytograms. |
 
 
 # CRACKERS
