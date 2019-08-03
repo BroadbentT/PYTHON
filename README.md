@@ -1,6 +1,3 @@
-![Screenshot](pythonlogo.png) 
-
-
 # ENCRYPTION AND DECRYPTION
 
 | FILENAME                       | DESCRIPTION |
