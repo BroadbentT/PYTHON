@@ -5,7 +5,7 @@
 
 | FILENAME                       | DESCRIPTION |
 |--------------------------------|-------------|
-| [BASE64/AES En/de-coder](https://github.com/BroadbentT/PCAP-CRACKER) | A simple python script file that creates and reads BASE64/AES encoded text strings. |
+| [BASE64/AES Encoder](https://github.com/BroadbentT/PCAP-CRACKER) | A simple python script file that creates and reads BASE64/AES encoded text strings. |
 
 
 # CRACKERS
