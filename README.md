@@ -1,7 +1,7 @@
 ![Screenshot](pythonlogo.png) 
 
 
-# PYTHON SCRIPTS
+![Screenshot](pythonlogo.png) # ENCRYPTION AND DECRYPTION
 
 | FILENAME                       | DESCRIPTION |
 |--------------------------------|-------------|
