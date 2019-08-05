@@ -2,7 +2,7 @@
 
 | FILENAME                       | DESCRIPTION |
 |--------------------------------|-------------|
-| [BASE64 / AES Encoder](https://github.com/BroadbentT/BASE64-AES) | A simple python script file to create and read BASE64/AES encoded text strings, using a salt and key.   |
+| [BASE64 / AES Encoder](https://github.com/BroadbentT/BASE64-AES) | A simple python script file to create and read BASE64 / AES encoded text strings, using a unique salt and enterprrise key.
 | [.Rsa Cracker       ](https://github.com/BroadbentT/RSA-CRACKER) |A python script file that cracks RSA encrypted messages via a weak .pub key, or .xml calculation.|
 | [DNA Encoder](https://github.com/BroadbentT/DNA-CRYPTOGRAM) | A python script file to to encrypt and decrypt DNA based crytograms. |
 
