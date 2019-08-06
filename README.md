@@ -7,21 +7,21 @@
 | [DNA Encoder](https://github.com/BroadbentT/DNA-CRYPTOGRAM) | A python script file to to encrypt and decrypt DNA based crytograms. |
 
 # WIRESHARK
-| FILE                       | DESCRIPTION |
+| FILE | DESCRIPTION |
 |--------------------------------|-------------|
 |[PCAP Cracker](https://github.com/BroadbentT/PCAP-CRACKER) | A python script file that cracks IEEE encrypted .pcap files, captured via Wireshark, and then extracts any pertinant encapsulated data. |
 | [.Rc4 Cracker](https://github.com/BroadbentT/RS4-CRACKER) | A python script file that cracks RC4 encrypted DNS exfiltration files captured via Wireshark.|
 
 # FORENSIC ANALYSIS
 
-| FILE                       | DESCRIPTION |
+| FILE | DESCRIPTION |
 |--------------------------------|-------------|
 | [Steg Master](https://github.com/BroadbentT/STEG-MASTER) |A python script file to forensicallly investigate and analyse encrypted data embedded within images. |
 |[Memory Master](https://github.com/BroadbentT/Memory-Manager) | A python script file to forensically investigate and analyse memory dump files produced by Windows or Linux. |
 
 # FILE CRACKERS
 
-| FILE                       | DESCRIPTION |
+| FILE | DESCRIPTION |
 |--------------------------------|-------------|
 | [.Pdf Cracker](https://github.com/BroadbentT/PDF-CRACKER) | A python script file that cracks encrypted .pdf files using a dictionary attack or a hash attack. |
 | [.Doc Cracker](https://github.com/BroadbentT/OFFICE-CRACKER) |A python script file that cracks encrypted Microsoft office files using a dictionary attack or a hash attack.|
