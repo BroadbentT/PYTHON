@@ -1,6 +1,6 @@
 # ENCRYPTION AND DECRYPTION
 
-| FILENAME                       | DESCRIPTION |
+| REPOSITORY | DESCRIPTION |
 |--------------------------------|-------------|
 | [BASE64/AES Encoder](https://github.com/BroadbentT/BASE64-AES) | A simple python script file to create and read BASE64/AES encoded text strings using a unique salt and a corporate Enterprise key.
 | [RSA Cracker       ](https://github.com/BroadbentT/RSA-CRACKER) |A python script file that cracks RSA encrypted messages via a weak .pub key, or .xml calculation.|
