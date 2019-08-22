@@ -1,3 +1,10 @@
+# FORENSIC ANALYSIS
+
+| PROJECT | DESCRIPTION |
+|--------------------------------|-------------|
+|[Memory-Master](https://github.com/BroadbentT/Memory-Manager) | A python script file to forensically investigate and analyse memory dump files produced by Windows. |
+|[Steg-Master](https://github.com/BroadbentT/STEG-MASTER) |A python script file to forensically investigate and analyse encrypted data embedded within images. |
+
 # ENCRYPTION AND DECRYPTION
 
 | PROJECT | DESCRIPTION |
@@ -11,13 +18,6 @@
 |--------------------------------|-------------|
 |[.Pcap Cracker](https://github.com/BroadbentT/PCAP-CRACKER) | A python script file that cracks IEEE encrypted .pcap files, captured via Wireshark, and then extracts any pertinant encapsulated data. |
 | [RC4 Cracker](https://github.com/BroadbentT/RS4-CRACKER) | A python script file that cracks RC4 encrypted DNS exfiltration files captured via Wireshark.|
-
-# FORENSIC ANALYSIS
-
-| PROJECT | DESCRIPTION |
-|--------------------------------|-------------|
-|[Memory-Master](https://github.com/BroadbentT/Memory-Manager) | A python script file to forensically investigate and analyse memory dump files produced by Windows. |
-|[Steg-Master](https://github.com/BroadbentT/STEG-MASTER) |A python script file to forensically investigate and analyse encrypted data embedded within images. |
 
 # FILE CRACKERS
 
