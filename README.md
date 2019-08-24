@@ -3,7 +3,7 @@
 
 | PROJECT | DESCRIPTION |
 |--------------------------------|-------------|
-|[Memory-Master](https://github.com/BroadbentT/Memory-Manager) | A python script file that forensically investigates and analyses memory-dump files obtained from Microsoft Windows. |
+|[RAMaster](https://github.com/BroadbentT/RAMASTER/tree/master) | A python script file that forensically investigates and analyses memory-dump files obtained from Microsoft Windows. |
 
 # ENCRYPTION AND DECRYPTION
 
