@@ -4,7 +4,6 @@
 | PROJECT | DESCRIPTION |
 |--------------------------------|-------------|
 |[Memory-Master](https://github.com/BroadbentT/Memory-Manager) | A python script file that forensically investigates and analyses memory-dump files obtained from Microsoft Windows. |
-|[Steg-Master](https://github.com/BroadbentT/STEG-MASTER) |A python script file that forensically investigates and analyses encrypted data embedded within images. |
 
 # ENCRYPTION AND DECRYPTION
 
