@@ -3,8 +3,8 @@
 
 | PROJECT | DESCRIPTION |
 |--------------------------------|-------------|
-|[Memory-Master](https://github.com/BroadbentT/Memory-Manager) | A python utility file that forensically investigates and analyses memory-dump files obtained from Microsoft Windows. |
-|[Steg-Master](https://github.com/BroadbentT/STEG-MASTER) |A python utility file to forensically investigate and analyse encrypted data embedded within images. |
+|[Memory-Master](https://github.com/BroadbentT/Memory-Manager) | A python script file that forensically investigates and analyses memory-dump files obtained from Microsoft Windows. |
+|[Steg-Master](https://github.com/BroadbentT/STEG-MASTER) |A python script file that forensically investigates and analyses encrypted data embedded within images. |
 
 # ENCRYPTION AND DECRYPTION
 
