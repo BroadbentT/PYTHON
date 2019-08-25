@@ -3,7 +3,7 @@
 
 | PROJECT | DESCRIPTION |
 |--------------------------------|-------------|
-|[RamMaster](https://github.com/BroadbentT/RAM-MASTER) | A python script file that forensically investigates and analyses memory-dump files obtained from Microsoft Windows. |
+|[RamMaster](https://github.com/BroadbentT/RAM-MASTER) | A python script to forensically investigate and analyse memory-dump files obtained from Microsoft Windows. |
 
 # ENCRYPTION AND DECRYPTION
 
