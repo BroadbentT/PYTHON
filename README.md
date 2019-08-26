@@ -24,9 +24,9 @@
 
 | PROJECT | DESCRIPTION |
 |--------------------------------|-------------|
-| [.Pdf Cracker](https://github.com/BroadbentT/PDF-CRACKER) | A python script file that cracks encrypted .pdf files using a dictionary attack or a hash attack. |
-| [.Doc Cracker](https://github.com/BroadbentT/OFFICE-CRACKER) |A python script file that cracks encrypted Microsoft office files using a dictionary attack or a hash attack.|
-| [.Zip Cracker](https://github.com/BroadbentT/ZIP-CRACKER) |A python script file that cracks encrypted .zip files using a dictionary attack or a brute force attack attack.|
+| [.Pdf Cracker](https://github.com/BroadbentT/PDF-CRACKER) | A python script file that cracks encrypted .pdf files using a dictionary attack, hash attack or a brute-force attack. |
+| [.Doc Cracker](https://github.com/BroadbentT/OFFICE-CRACKER) |A python script file that cracks encrypted Microsoft office files using a dictionary attack, hash attack, or a brute-force attack.|
+| [.Zip Cracker](https://github.com/BroadbentT/ZIP-CRACKER) |A python script file that cracks encrypted .zip files using a dictionary attack, hash attack or a brute-force attack.|
 | [.Pem Cracker](https://github.com/BroadbentT/RSA-CRACKER) |A python script file that cracks RSA encrypted messages via a weak .pub key/.xml calculation by creating a fake private.pem.|
 
 
