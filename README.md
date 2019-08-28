@@ -9,8 +9,8 @@
 
 | PROJECT | DESCRIPTION |
 |--------------------------------|-------------|
-| [BASE64/AES Encoders](https://github.com/BroadbentT/BASE64-AES) | Python script files to create and read BASE64/AES encoded text strings via a corporate 'Password Based Key Derivation Function' (PBKDF2). |
-| [BASE64/BLOWFISH Encoder](https://github.com/BroadbentT/BASSE64-BLOWFISH) | A simple python script file to create and read BASE64/BLOWFISH encoded text strings using a corporate Enterprise key. |
+| [BASE64/AES Encoders](https://github.com/BroadbentT/BASE64-AES) | Python script files to create and read BASE64/AES encoded text strings via a 'Password Based Key Derivation Function' (PBKDF2). |
+| [BASE64/BLOWFISH Encoders](https://github.com/BroadbentT/BASSE64-BLOWFISH) | Python script files to encode and decode BASE64/BLOWFISH text strings via a 'Password Based Key Derivation Function' (PBKDF2). |
 | [DNA Crytogram](https://github.com/BroadbentT/DNA-CRYPTOGRAM) | A python script file to to encrypt and decrypt DNA based crytograms. |
 
 # WIRESHARK
