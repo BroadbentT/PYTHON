@@ -3,7 +3,7 @@
 
 | PROJECT | DESCRIPTION |
 |--------------------------------|-------------|
-|[Ram Master](https://github.com/BroadbentT/RAM-MASTER) | A python script file to forensically investigate and analyse Microsoft Windows dump files via volatility.|
+|[Ram Master   ](https://github.com/BroadbentT/RAM-MASTER) | A python script file to forensically investigate and analyse Microsoft Windows dump files via volatility.|
 
 # ENCRYPTION AND DECRYPTION
 
