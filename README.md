@@ -3,8 +3,8 @@
 
 | PROJECT | DESCRIPTION |
 |--------------------------------|-------------|
-|[Ram Master](https://github.com/BroadbentT/RAM-MASTER) | A python script file to forensically investigate and analyse Microsoft Windows dump files via volatility.|
-|[Steg Master](https://github.com/BroadbentT/STEG-MASTER) | A python script file to decrypt hidden data embedded within images.|
+| [Ram Master](https://github.com/BroadbentT/RAM-MASTER) | A python script file to forensically investigate and analyse Microsoft Windows dump files via volatility.|
+| [Steg Master](https://github.com/BroadbentT/STEG-MASTER) | A python script file to decrypt hidden data embedded within images.|
 
 # ENCRYPTION AND DECRYPTION
 
@@ -17,8 +17,8 @@
 # WIRESHARK
 | PROJECT | DESCRIPTION |
 |--------------------------------|-------------|
-|[.Pcap Cracker](https://github.com/BroadbentT/PCAP-CRACKER) | A python script file to decrypt encrypted IEE (802.11) Radio .pcap files captured via Wireshark. |
-[RC4 Cracker](https://github.com/BroadbentT/RC4-CRACKER) | A python script file to crack a RC4 encrypted DNS exfiltration file captured via Wireshark. |
+| [.Pcap Cracker](https://github.com/BroadbentT/PCAP-CRACKER) | A python script file to decrypt encrypted IEE (802.11) Radio .pcap files captured via Wireshark. |
+| [RC4 Cracker](https://github.com/BroadbentT/RC4-CRACKER) | A python script file to crack a RC4 encrypted DNS exfiltration file captured via Wireshark. |
 
 
 # FILE CRACKERS
