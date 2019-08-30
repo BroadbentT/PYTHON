@@ -17,7 +17,7 @@
 # WIRESHARK
 | PROJECT | DESCRIPTION |
 |--------------------------------|-------------|
-|[.Pcap Cracker](https://github.com/BroadbentT/PCAP-CRACKER) | A python script file that cracks IEEE encrypted .pcap files, captured via Wireshark, and then extracts any pertinant encapsulated data. |
+|[.Pcap Cracker](https://github.com/BroadbentT/PCAP-CRACKER) | Python script file to decrypt encrypted IEE (802.11) Radio .pcap files. |
 [RC4 Cracker](https://github.com/BroadbentT/RC4-CRACKER) | Python script file to crack RS4 encrypted DNS exfiltration file captured via Wireshark. |
 
 
