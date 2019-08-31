@@ -3,7 +3,7 @@
 
 | PROJECT | DESCRIPTION |
 |--------------------------------|-------------|
-| [Ram Master](https://github.com/BroadbentT/RAM-MASTER) | A python script file to forensically investigate and analyse Microsoft Windows dump files via volatility. &nbsp;&nbsp;&nbsp;&nbsp;|
+| [Ram Master](https://github.com/BroadbentT/RAM-MASTER) | A python script file to forensically investigate and analyse Microsoft Windows dump files via volatility. &nbsp;&nbsp;&nbsp|
 | [Steg Master](https://github.com/BroadbentT/STEG-MASTER) | A python script file to decrypt hidden data embedded within images.|
 
 # ENCRYPTION AND DECRYPTION
