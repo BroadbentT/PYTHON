@@ -17,7 +17,7 @@
 # WIRESHARK
 | PROJECT | DESCRIPTION |
 |--------------------------------|-----------------------------------------------------------------------------------------------------|
-| [.Pcap Cracker](https://github.com/BroadbentT/PCAP-CRACKER) | A python script file to decrypt encrypted IEE (802.11) Radio .pcap files captured via Wireshark for forensic analyse.|
+| [.Pcap Cracker](https://github.com/BroadbentT/PCAP-CRACKER) | A python script file to decrypt encrypted 'IEE (802.11) Radio' .pcap files captured via Wireshark for forensic analyse.|
 | [De-Exfiltrator](https://github.com/BroadbentT/RC4-CRACKER) | A python script file to decrypt RC4 encrypted DNS exfiltration files captured via Wireshark. |
 
 
