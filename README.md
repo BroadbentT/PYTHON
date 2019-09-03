@@ -28,6 +28,6 @@
 | [.Pdf Cracker](https://github.com/BroadbentT/PDF-CRACKER) | A python script file that cracks encrypted .pdf files using a dictionary attack, a hash attack or a brute-force attack. |
 | [.Doc Cracker](https://github.com/BroadbentT/OFFICE-CRACKER) |A python script file that cracks encrypted Microsoft office files using a dictionary attack, a hash attack, or a brute-force attack.|
 | [.Zip Cracker](https://github.com/BroadbentT/ZIP-CRACKER) | A python script file to crack encrypted .zip files using a dictionary attack, a hash attack,  or a alphanumeric brute force attack. |
-| [.Pem Cracker](https://github.com/BroadbentT/RSA-CRACKER) |A python script file that cracks RSA encrypted messages via a weak .pub key/.xml calculation by creating a fraudulent private.pem.|
+| [.Pem Cracker](https://github.com/BroadbentT/RSA-CRACKER) |A python script file that cracks RSA encrypted messages via a weak .pub key/.xml calculation by creating a fraudulent private key.|
 
 
