@@ -10,14 +10,14 @@
 
 | PROJECT | DESCRIPTION |
 |--------------------------------|-------------|
-| [BASE64/AES Encoders](https://github.com/BroadbentT/BASE64-AES) | A python script files to encode and decode BASE64/AES text strings via a 'Password Based Key Derivation Function' (PBKDF2). |
-| [BASE64/BLOWFISH Encoders](https://github.com/BroadbentT/BASSE64-BLOWFISH) | A python script files to encode and decode BASE64/BLOWFISH text strings via a 'Password Based Key Derivation Function' (PBKDF2). |
-| [BASE64/DNA Encoder](https://github.com/BroadbentT/DNA-CRYPTOGRAM) | A python script file to encode and decode BASE64/DNA based text strings. |
+| [Base64/AES Encoders](https://github.com/BroadbentT/BASE64-AES) | A python script files to encode and decode BASE64/AES text strings via a 'Password Based Key Derivation Function' (PBKDF2). |
+| [Base64/Blowfish Encoders](https://github.com/BroadbentT/BASSE64-BLOWFISH) | A python script files to encode and decode BASE64/BLOWFISH text strings via a 'Password Based Key Derivation Function' (PBKDF2). |
+| [Base64/DNA Encoder](https://github.com/BroadbentT/DNA-CRYPTOGRAM) | A python script file to encode and decode BASE64/DNA based text strings. |
 
 # WIRESHARK
 | PROJECT | DESCRIPTION |
 |--------------------------------|-----------------------------------------------------------------------------------------------------|
-| [PCAP Cracker](https://github.com/BroadbentT/PCAP-CRACKER) | A python script file to decrypt encrypted IEEE (802.11) Radio .pcapng files captured via Wireshark for forensic analysis.|
+| [WiFi Cracker](https://github.com/BroadbentT/PCAP-CRACKER) | A python script file to decrypt encrypted IEEE (802.11) Radio .pcapng files captured via Wireshark for forensic analysis.|
 | [DeExfiltrator](https://github.com/BroadbentT/RC4-CRACKER) | A python script file to decrypt RC4 encrypted DNS exfiltration files captured via Wireshark for forensic analysis.|
 
 
