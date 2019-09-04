@@ -6,6 +6,12 @@
 | [RamMaster](https://github.com/BroadbentT/RAM-MASTER) | A python script file to forensically investigate and analyse Microsoft Windows dump files via volatility.|
 | [StegMaster](https://github.com/BroadbentT/STEG-MASTER) | A python script file to forensically investigate and extract hidden data covertly embedded within an image.|
 
+# AUDITING
+
+| PROJECT | DESCRIPTION |
+|--------------------------------|-------------|
+| [SQLMAP Auditor](https://github.com/BroadbentT/SQLMAP-AUDITOR) | .|
+
 # ENCRYPTION AND DECRYPTION
 
 | PROJECT | DESCRIPTION |
