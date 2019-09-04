@@ -10,7 +10,7 @@
 
 | PROJECT | DESCRIPTION |
 |--------------------------------|-------------|
-| [SQLMAP Auditor](https://github.com/BroadbentT/SQLMAP-AUDITOR) | A python script file to perform automated audit tests against web application projects.|
+| [SQLMAP Auditor](https://github.com/BroadbentT/SQLMAP-AUDITOR) | A python script file to perform automated audit tests against web application projects using SQLMAP.|
 
 # ENCRYPTION AND DECRYPTION
 
