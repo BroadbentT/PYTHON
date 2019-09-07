@@ -24,7 +24,7 @@
 | PROJECT | DESCRIPTION |
 |--------------------------------|-----------------------------------------------------------------------------------------------------|
 | [WiFi Cracker](https://github.com/BroadbentT/PCAP-CRACKER) | A python script file to decrypt encrypted IEEE (802.11) Radio .pcapng files captured via Wireshark for forensic analysis.|
-| [DeExfiltrator](https://github.com/BroadbentT/RC4-CRACKER) | A python script file to decrypt BASE64/RC4 encrypted DNS exfiltration traffic captured via Wireshark.|
+| [DeExfiltrator](https://github.com/BroadbentT/RC4-CRACKER) | A python script file to decrypt BASE64/RC4 encrypted DNS exfiltration zip-file messages captured via Wireshark.|
 
 # FILE CRACKERS
 
