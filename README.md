@@ -16,8 +16,8 @@
 
 | PROJECT | DESCRIPTION |
 |--------------------------------|-------------|
-| [Base64/AES Encoders](https://github.com/BroadbentT/BASE64-AES) | A python script files to encode and decode BASE64/AES text strings via a 'Password Based Key Derivation Function' (PBKDF2). |
-| [Base64/Blowfish Encoders](https://github.com/BroadbentT/BASSE64-BLOWFISH) | A python script files to encode and decode BASE64/BLOWFISH text strings via a 'Password Based Key Derivation Function' (PBKDF2). |
+| [Base64/AES Encoders](https://github.com/BroadbentT/BASE64-AES) | Python script files to encode and decode BASE64/AES text strings via a 'Password Based Key Derivation Function' (PBKDF2). |
+| [Base64/Blowfish Encoders](https://github.com/BroadbentT/BASSE64-BLOWFISH) | Python script files to encode and decode BASE64/BLOWFISH text strings via a 'Password Based Key Derivation Function' (PBKDF2). |
 | [Base64/DNA Encoder](https://github.com/BroadbentT/DNA-CRYPTOGRAM) | A python script file to encode and decode BASE64/DNA based text strings. |
 
 # WIRESHARK
@@ -30,7 +30,7 @@
 
 | PROJECT | DESCRIPTION |
 |--------------------------------|-------------|
-| [ROP Tools](https://github.com/BroadbentT/ROP) | A python script file to perform Return-Oriented Programming (ROP) exploits on vulnerable elf-files, such as bitterman.| 
+| [ROP Tools](https://github.com/BroadbentT/ROP) | Python script filea to perform Return-Oriented Programming (ROP) exploits on vulnerable elf-files, such as bitterman.| 
 
 # FILE CRACKERS
 
