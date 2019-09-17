@@ -30,7 +30,7 @@
 
 | PROJECT | DESCRIPTION |
 |--------------------------------|-------------|
-| [R2LibcRop](https://github.com/BroadbentT/ROP) | A python script file to perform Return-oriented Programming (ROP) exploits, semi-automatically.| 
+| [R2LibcRop](https://github.com/BroadbentT/ROP) | An experimental python script file to perform Return-oriented Programming (ROP) exploits, semi-automatically.| 
 
 # FILE CRACKERS
 
