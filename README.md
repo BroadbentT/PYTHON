@@ -30,7 +30,7 @@
 
 | PROJECT | DESCRIPTION |
 |--------------------------------|-------------|
-| [R2LibcRop](https://github.com/BroadbentT/ROP) | Two python script files to perform Return-Oriented Programming (ROP) exploits on vulnerable ELF files.| 
+| [R2LibcRop](https://github.com/BroadbentT/ROP) | A python script file to perform Return-Oriented Programming (ROP) exploits on vulnerable elf-files, such as bitterman.| 
 
 # FILE CRACKERS
 
