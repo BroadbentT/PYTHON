@@ -30,7 +30,7 @@
 
 | PROJECT | DESCRIPTION |
 |--------------------------------|-------------|
-| [ROP Tools](https://github.com/BroadbentT/ROP) | Python script filea to perform Return-Oriented Programming (ROP) exploits on vulnerable elf-files, such as bitterman.| 
+| [ROP Tricks](https://github.com/BroadbentT/ROP) | Python script files to perform Return-Oriented Programming (ROP) exploits on vulnerable elf-files, such as bitterman.| 
 
 # FILE CRACKERS
 
