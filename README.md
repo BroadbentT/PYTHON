@@ -12,7 +12,7 @@
 # MESSENGER SERVICES
 | PROJECT_HEADER | PROJECT_DESCRIPTION |
 |----------------|---------------------|
-| [Messenger](https://github.com/BroadbentT/MESSENGER) | A simple python script file for a chatroom/messenger server and associated remote access client(s). |
+| [Messenger](https://github.com/BroadbentT/MESSENGER) | Simple python script files for a chatroom/messenger style server and associated remote access client(s). |
 
 # ENCRYPTION AND DECRYPTION
 | PROJECT_HEADER | PROJECT_DESCRIPTION |
