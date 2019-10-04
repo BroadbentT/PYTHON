@@ -1,4 +1,3 @@
-
 # FORENSIC ANALYSIS
 | PROJECT_HEADER | PROJECT_DESCRIPTION |
 |----------------|---------------------|
@@ -10,11 +9,10 @@
 |----------------|---------------------|
 | [SQLMAP Auditor](https://github.com/BroadbentT/SQLMAP-AUDITOR) | A python script file to perform OWASP’s automated audit tests against web application projects using SQLMAP.|
 
-# MESSANGER SERVICES
+# MESSENGER SERVICES
 | PROJECT_HEADER | PROJECT_DESCRIPTION |
 |----------------|---------------------|
-| [Messnger](https://github.com/BroadbentT/MESSENGER) | Simple python script files for a chat server and clients. |
-
+| [Messenger](https://github.com/BroadbentT/MESSENGER) | A simple python script file for a chatroom/messenger server and associated remote access client(s). |
 
 # ENCRYPTION AND DECRYPTION
 | PROJECT_HEADER | PROJECT_DESCRIPTION |
