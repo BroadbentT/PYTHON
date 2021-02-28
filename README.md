@@ -2,10 +2,10 @@
 | PROJECT_HEADER | PROJECT_DESCRIPTION |
 |----------------|---------------------|
 | [RamMaster](https://github.com/BroadbentT/RAM-MASTER)   | A python script file to forensically investigate and analyse Microsoft Windows dump files via volatility.|
+| [BinMaster](https://github.com/BroadbentT/BIN-MASTER)   | A python script file to forensically investigate and analyse binary files for buffer overflows.|
 | [RogueAgent](https://github.com/BroadbentT/ROGUE-AGENT)  | A python script file to remotely analyse computer systems (previously WinMaster).|
 | [StegMaster](https://github.com/BroadbentT/STEG-MASTER) | A python script file to forensically investigate and extract hidden data covertly embedded within an image.|
 | [WebMaster](https://github.com/BroadbentT/WEB-MASTER)   | A python script file to remotely analyse and exploit web applications.|
-
 
 # AUDITING
 | PROJECT_HEADER | PROJECT_DESCRIPTION |
